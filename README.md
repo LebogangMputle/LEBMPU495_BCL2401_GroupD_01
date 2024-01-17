@@ -34,7 +34,7 @@
 
     <!-- Skills Section -->
     <section id="">
-        <h3>My Skills &#129337</h3>
+        <h2>My Skills &#129337</h2>
         <ul>
             <li>Web development &#128376</li>
             <li>UI/UX Design &#127912</li>
